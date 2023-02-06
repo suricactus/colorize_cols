@@ -1,0 +1,5 @@
+dist
+build
+**/__pycache__
+**/colorize_cols.egg-info
+.env
